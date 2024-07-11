@@ -234,7 +234,7 @@ When innerHandleOp is executed within EntryPoint, it follows up with the fee pro
 
 EIP4337 wallets may support user-customizable extended wallet functionalities such as social recovery, contract upgrades, insurance vaults, and other modules. Auditors need to verify whether the wallet can safely manage the "addition/removal/use" of these modules. If modules are executed using `DELEGATECALL`, auditors should ensure the security of data stored in wallet slots.
 
-==To be continued...==
+*`To be continued...`*
 
 ## Conclusion
 
